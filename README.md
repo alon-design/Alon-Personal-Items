@@ -18,8 +18,9 @@ Like A Yuan, I'm from Liaoning, but I'm from Fushun
 🦚Lark：[Go to the Chinese page to learn](https://cladonia.feishu.cn/wiki/wikcnuI0KjKxH6pOQp5qh7w3VOg)
 📺BiliBILI：[不可回收的安龙的个人空间](https://space.bilibili.com/501450681)  
 📧E-Mali：3618542587@qq.com / alon@cladonia.team
-#### You may need to use Chinese to communicate with me happily. If you don't, you can use translation tools.
+#### You may need to use Chinese to communicate with me happily. If you do not understand Chinese, you can use translation tools.
 ## 💎 My work
+#### The works are mainly in Chinese. If you can't understand them, please use translation tools instead of browsers.
 ### [Xingo, Collaboration tools from the future.](https://js.design/f/_OmK_6)  
 ![Screenshot of Xingo](https://s1.ax1x.com/2023/01/03/pSiFP6s.png)
 ### [Tuling Material, Open source, easily customizable texture icon package.](https://js.design/f/_OmK_6)  
@@ -27,4 +28,3 @@ Like A Yuan, I'm from Liaoning, but I'm from Fushun
 ### [Tuling 5, Restate the classic](https://github.com/cladonia-cn/Tuling-5)  
 ### [WithDo, Free online collaboration Office.](https://js.design/f/_OmK_6)  
 ![Screenshot of WithDo](https://s1.ax1x.com/2023/01/03/pSiFClj.png)
-#### The above works are mainly in Chinese. If you can't understand them, please use translation tools instead of browsers.
